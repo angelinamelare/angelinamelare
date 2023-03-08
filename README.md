@@ -1,6 +1,6 @@
 <h1 align=center> Angelina V S Melaré </h1>
 <p>Professor at Fatec Votorantim/Sorocaba/Itu and FACENS.<p>
-<img src=" 
+<img src="avatarAngelina.png"> 
   
 <!---
 angelinamelare/angelinamelare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
