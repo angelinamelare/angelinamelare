@@ -1,4 +1,4 @@
-Professor at Fatec Itu, Fatec Sorocaba and FACENS.
+Professor at Fatec Votorantim/Sorocaba/Itu and FACENS.
 
 <!---
 angelinamelare/angelinamelare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
