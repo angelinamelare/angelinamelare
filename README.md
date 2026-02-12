@@ -1,5 +1,5 @@
 <h1 align=center> Angelina V S Melaré </h1>
-<p>Professor at Fatec Votorantim/Sorocaba and FACENS.<p>
+<p>Professor at Fatec Votorantim/Sorocaba .<p>
 <img src="avatarAngelina.png" width="30%"> 
   
 <!---
